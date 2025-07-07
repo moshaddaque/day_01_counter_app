@@ -31,5 +31,5 @@ It’s not just another counter — it's a UI design showcase featuring glassmor
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/beautiful_counter_flutter.git
+   git clone https://github.com/moshaddaque/day_01_counter_app.git
    cd beautiful_counter_flutter
